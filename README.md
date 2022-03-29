@@ -33,19 +33,6 @@
 
 
 
-
-<h1 align="left"> 📊 Github Status: </h1>
-<p align="left">
-  
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jandari91&show_icons=true"></img>
-</p>
-
-
-<br/>
-
-
-
 <h1 align="left"> 🔧 Skills & Tools: </h1>
 
 <p align="left">
@@ -141,3 +128,10 @@
 
 
 <br/>
+
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Jandari's github stats](https://github-readme-stats.vercel.app/api?username=jandari91&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jandari91&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+![header](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=gradient)
