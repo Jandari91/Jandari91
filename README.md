@@ -1,5 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=BakYeongSeok👋&fontSize=40)
 
-<h1 align="left"> 박영석 </h1>
+<h1 align="left"> 박영석 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJandari91%2Fhit-counter&count_bg=%234E7191&title_bg=%23837401&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+</h1>
 
 <h1 align="left"> 👨‍💻Backend Engineer </h1>
 <p align="left">
@@ -95,7 +98,9 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
-  
+  <a href="https://www.devexpress.com/">
+    <img src="https://img.shields.io/badge/DevExpress-green?style=flat-square&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
+  </a>
   <br>
   
   <!-- OS -->
