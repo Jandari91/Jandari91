@@ -38,7 +38,7 @@
 <p align="left">
 
   <!-- Language -->
-  <a href="https://https://docs.microsoft.com/ko-kr/dotnet/csharp/">
+  <a href="https://docs.microsoft.com/ko-kr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
   
@@ -90,14 +90,14 @@
   <br>
   
   <!-- Tools -->
-  <a href="https://https://visualstudio.microsoft.com/ko/">
+  <a href="https://visualstudio.microsoft.com/ko/">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
   <a href="https://www.devexpress.com/">
-    <img src="https://img.shields.io/badge/DevExpress-green?style=flat-square&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
+    <img src="https://img.shields.io/badge/DevExpress-green?style=for-the-badge&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
   </a>
   <br>
   
