@@ -114,15 +114,15 @@
 
 
 ## **📜 Certificates**
-| **Certificates**   |      **Dates**      |  **Contents** |
-|:----------:|:-------------:|:------:|
-| **네트워크 관리사 2급** |    2013.11.12   |  [Link](https://namu.wiki/w/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC)  |
-| **리눅스 마스터 2급** |    2014.06.27   |   [Link](https://namu.wiki/w/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%A7%88%EC%8A%A4%ED%84%B0)  |
-| **CCNA** |    2014.12.01   |   [Link](https://ko.wikipedia.org/wiki/CCNA)  |
-| **정보처리기사** |  2015.05.08 | [Link](https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC) |
-| **CSTS** |    2016.06.14   |  [Link](https://sw.tta.or.kr/service/csts_it.jsp)   |
-| **OCP 11g** |    2016.02.19   |   [Link](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%9D%BC%ED%81%B4_%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)  |
-| **SQLD** |    2019.09.24   |   [Link](https://namu.wiki/w/SQLD)  |
+| **Certificates**   |      **Dates**      |
+|:----------:|:-------------:|
+| **[네트워크 관리사 2급](https://namu.wiki/w/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC)** |    2013.11.12   |
+| **[리눅스 마스터 2급](https://namu.wiki/w/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%A7%88%EC%8A%A4%ED%84%B0)** |    2014.06.27   |
+| **[CCNA](https://ko.wikipedia.org/wiki/CCNA)** |    2014.12.01   |
+| **[정보처리기사](https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC)** |  2015.05.08 |
+| **[CSTS](https://sw.tta.or.kr/service/csts_it.jsp)** |    2016.06.14   |
+| **[OCP 11g](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%9D%BC%ED%81%B4_%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)** |    2016.02.19   |
+| **[SQLD](https://namu.wiki/w/SQLD)** |    2019.09.24   |
 
 
 
