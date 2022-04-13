@@ -24,7 +24,7 @@
 | **Type**   |      **Dates**      |  **Contents** |  **Organization** |
 |:----------:|:-------------:|:------:|:------:|
 | **🎓 Education** |  2010.03 ~ 2017.02 | 정보통신학과 | 광주대학교 |
-| **External activites** |    2015.12 ~ 2016.12   |  알고리즘 동호회   | Logic |
+| **External activites** |    2015.12 ~ 2016.12   |  알고리즘 동아리   | Logic |
 | **External activites** |    2015.06 ~ 2016.12   |   알고리즘 및 팀프로젝트  | 삼성소프트웨어멤버십 |
 | **🏢Employment** |    2017.10 ~ 2020.09   |   IT Infrastructure  | Kwangjin Corp |
 | **🏢Employment** |    2018.03 ~ ing   |   SW Engineer  | MireroSystem Corp  |
