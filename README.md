@@ -1,36 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=BakYeongSeok👋&fontSize=40)
 
-<h1 align="left"> 박영석 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJandari91%2Fhit-counter&count_bg=%234E7191&title_bg=%23837401&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-</h1>
-
-<h1 align="left"> 👨‍💻Backend Engineer </h1>
-<p align="left">
-  <samp>
-    😁 반도체 관련 회사에서 현재 C# 개발자로 일하고 있습니다. 
-    프로젝트 아키텍처에 관심이 많아 요즘 MSA 공부를 하고 있습니다.
-    그래서 자연스럽게 DDD, 단위 테스트, CI/CD 등 같이 학습하고 있습니다.😁
-  </samp>
-  <br/>
-</p>
-
-<a href="https://jandari91.github.io">
-    <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
-</a>
-
 <br/>
-
-## **💜 Career**
-| **Type**   |      **Dates**      |  **Contents** |  **Organization** |
-|:----------:|:-------------:|:------:|:------:|
-| **🎓 Education** |  2010.03 ~ 2017.02 | 정보통신학과 | 광주대학교 |
-| **External activites** |    2015.12 ~ 2016.12   |  알고리즘 동아리   | Logic |
-| **External activites** |    2015.06 ~ 2016.12   |   알고리즘 및 팀프로젝트  | 삼성소프트웨어멤버십 |
-| **🏢Employment** |    2017.10 ~ 2020.09   |   IT Infrastructure  | Kwangjin Corp |
-| **🏢Employment** |    2018.03 ~ ing   |   SW Engineer  | MireroSystem Corp  |
-
-<br/>
-
 
 
 <h1 align="left"> 🔧 Skills & Tools: </h1>
@@ -112,22 +82,6 @@
 
 <br/>
 
-
-## **📜 Certificates**
-| **Certificates**   |      **Dates**      |
-|:----------:|:-------------:|
-| **[네트워크 관리사 2급](https://namu.wiki/w/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC)** |    2013.11.12   |
-| **[리눅스 마스터 2급](https://namu.wiki/w/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%A7%88%EC%8A%A4%ED%84%B0)** |    2014.06.27   |
-| **[CCNA](https://ko.wikipedia.org/wiki/CCNA)** |    2014.12.01   |
-| **[정보처리기사](https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC)** |  2015.05.08 |
-| **[CSTS](https://sw.tta.or.kr/service/csts_it.jsp)** |    2016.06.14   |
-| **[OCP 11g](https://ko.wikipedia.org/wiki/%EC%98%A4%EB%9D%BC%ED%81%B4_%EC%9E%90%EA%B2%A9%EC%A6%9D_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)** |    2016.02.19   |
-| **[SQLD](https://namu.wiki/w/SQLD)** |    2019.09.24   |
-
-
-
-
-<br/>
 
 ### Quick stats about me
 | Github Stats | Top Languages |
